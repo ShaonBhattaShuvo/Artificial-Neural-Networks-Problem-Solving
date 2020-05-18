@@ -2,7 +2,7 @@
 """
 Created on Sun Feb  9 14:27:35 2020
 
-@author: Shaon
+@author: Shaon Bhatta Shuvo
 """
 #importing libraries
 import numpy as np
