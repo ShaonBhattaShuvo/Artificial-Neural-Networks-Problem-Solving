@@ -2,10 +2,12 @@
 """
 Created on Sun Mar  1 18:07:54 2020
 
-@author: Shaon
+@author: Shaon Bhatta Shuvo
 """
-
-
+################################################################################
+#MNIST is a standard dataset for machine learning and also deep learning. 
+#It’s good to try it on one shallow neural networks before deep neural networks.
+################################################################################
 # TensorFlow and tf.keras
 import tensorflow as tf
 from tensorflow import keras
